@@ -1,0 +1,28 @@
+_repo: The-Great-Frozen-SeaA-Personal-Narrative-of-the-Voyage-of-the--Alert-_43608
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Markham, Albert Hastings, Sir
+    birthdate: 1841
+    deathdate: 1918
+    gutenberg_agent_id: '42322'
+    url: http://www.gutenberg.org/2009/agents/42322
+description: ''
+gutenberg_issued: '2013-08-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43608'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Alert (Sloop : 1856-1895)'
+- !lcsh 'Arctic regions'
+- !lcc 'G'
+- !lcsh 'Nares, George S. (George Strong), 1831-1915'
+title: 'The Great Frozen Sea: A Personal Narrative of the Voyage of the "Alert"'
+url: http://www.gutenberg.org/ebooks/43608
